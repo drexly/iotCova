@@ -1,5 +1,9 @@
 # iotCova
-Arduino+Sirf3GPS+(heartbeat sensor)+esp8266+Python relay server+Google FirebaseRealtimeDB= SKT 청년비상창업프로그램 선발
+Arduino+Sirf3GPS+(heartbeat sensor)+esp8266+Python relay server+Google FirebaseRealtimeDB=SKT 청년비상창업프로그램 선발
+
+& 전국 결선(CYA.AI) Arduino + Microdust Sensor + LoRa + WiFi + Realtime Web AI prediction(regression.js)
+
+![https://github.com/drexly/chatbotAIresume](/sktfinal.png?raw=true "final present")
 
 * * *
 [![System Demo](http://i3.ytimg.com/vi/QA-YlBUXh8Y/hqdefault.jpg)](https://youtu.be/QA-YlBUXh8Y)
